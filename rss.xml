@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Integralnlp]]></title>
+        <description><![CDATA[Integralnlp]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 17:21:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome - Hoşgeldiniz - Καλώς ήρθατε!]]></title>
+            <description><![CDATA[<article><h1>Welcome - Hoşgeldiniz - Καλώς ήρθατε!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ba3fcca6a35e7eea4ff4a1125c2c4161465ab87.gif"></article>]]></description>
+            <link>undefinedwelcome-hosgeldiniz-kalws-hr8ate/index.html</link>
+            <guid isPermaLink="false">99a378c5-ef8a-4889-95d0-8109072c6f64</guid>
+            <pubDate>Tue, 12 Jan 2016 17:21:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
