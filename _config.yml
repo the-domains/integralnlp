@@ -1,0 +1,28 @@
+name: Integralnlp
+favicon: null
+layout_spectrum: 0.27488504396751523
+typography_spectrum: 0.004158356925472617
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9167365187313408
+  lightness: 0.4593948917463422
+  saturation: 0.5265086148865521
+  rhythmicContrast: 0.9451268948614597
+purpose: []
